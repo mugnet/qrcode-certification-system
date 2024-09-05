@@ -1,0 +1,32 @@
+.certification, *{
+    color: #000 !important;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cert-header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+
+.cert-header p{
+    font-weight: bold;
+}
+    .text-center{
+        text-align: center;
+    }
+
+
+
+    .cert-title{
+        font-size:40px !important;
+    }
+
+    .table-cert tr td:first-child{
+        width:200px;
+    }
+
+    .titles{
+        line-height: 2px;
+    }
